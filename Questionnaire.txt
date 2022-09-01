@@ -1,7 +1,7 @@
 questionnaire
 
 1.What is your favorite color?
-
+Blue
 2.Where is your hometown?
 
 3.What is your favorite food?
